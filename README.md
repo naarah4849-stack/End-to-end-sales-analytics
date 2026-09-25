@@ -1,6 +1,6 @@
 # End-to-End Sales Data Pipeline & Analytics Dashboard
 
-A complete data project featuring advanced data cleaning using **Power BI/Python (Pandas)** and professional interactive reporting using **Power BI** with complex time-intelligence modeling.
+A complete data project featuring advanced data cleaning using **Power BI/Python (Pandas)** and professional interactive reporting using **Power BI** with complex time-intelligence modeling. 
 
 ## 🛠️ Tech Stack & Architecture
 1. **Data Engineering (Python/Pandas):** Handled heavy data anomalies, structural whitespace trimming, data type coercion, and standardizing text/boolean records.
