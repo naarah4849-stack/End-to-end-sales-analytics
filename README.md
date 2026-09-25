@@ -1,15 +1,15 @@
 # End-to-End Sales Data Pipeline & Analytics Dashboard
 
-A complete data project featuring advanced data cleaning using **Python (Pandas)** and professional interactive reporting using **Power BI** with complex time-intelligence modeling.
+A complete data project featuring advanced data cleaning using **Power BI/Python (Pandas)** and professional interactive reporting using **Power BI** with complex time-intelligence modeling.
 
 ## 🛠️ Tech Stack & Architecture
 1. **Data Engineering (Python/Pandas):** Handled heavy data anomalies, structural whitespace trimming, data type coercion, and standardizing text/boolean records.
-2. **Data Modeling & Visualization (Power BI):** Designed schema relationships, built a dedicated calendar dimension, and engineered advanced interactive visual components.
+2. **Data cleaning/Data Modeling & Visualization (Power BI):** Replaced values, designed schema relationships, built a dedicated calendar dimension, and engineered advanced interactive visual components.
 
 ---
 
 ## 📊 Dashboard Preview
-*(Tip: Replace this placeholder text with your real dashboard screenshot by dragging it here in GitHub edit mode)*
+<img width="1473" height="831" alt="GIF sales finished 2026" src="https://github.com/user-attachments/assets/e4b078c5-dde2-4887-b074-9a77b75d89a5" />
 
 ---
 
